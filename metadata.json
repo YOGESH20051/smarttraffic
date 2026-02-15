@@ -1,0 +1,8 @@
+
+{
+  "name": "SmartPath AI: Urban Traffic Optimizer",
+  "description": "A sophisticated traffic simulation and management system that uses adaptive algorithms and Gemini AI to optimize urban flow, reduce congestion, and predict traffic patterns.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
